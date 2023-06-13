@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-2000&label=Profile%20views&color=0e75b6&style=flat" alt="usman-2000" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://usman-rahim-3d-portfolio.netlify.app/](https://usman-rahim-3d-portfolio.netlify.app/)]
+- 👨‍💻 All of my projects are available at [https://usman-rahim-3d-portfolio.netlify.app/](https://usman-rahim-3d-portfolio.netlify.app/)
 
 - 📫 How to reach me **usmanrahim2000@gmail.com**
 
